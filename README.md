@@ -29,7 +29,6 @@
 3.  **최적화:** 외부 이미지 리소스 로딩 전 로딩 오버레이 구현으로 사용자 경험(UX) 개선
 
 ### 실행 화면
-(여기에 게임 플레이 스크린샷을 넣어주시면 좋습니다!)
 <img width="974" height="829" alt="스크린샷 2025-12-17 14 21 41" src="https://github.com/user-attachments/assets/cb635e81-e0ec-4595-8039-c152c02662b5" />
 
 <img width="976" height="820" alt="스크린샷 2025-12-17 14 21 54" src="https://github.com/user-attachments/assets/c74ecc63-d433-4966-8de0-16cb2ec2b322" />
